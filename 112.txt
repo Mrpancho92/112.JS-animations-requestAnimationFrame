@@ -1,0 +1,4 @@
+https://html5book.ru/css3-animation/
+https://html5.by/blog/what-is-requestanimationframe/
+https://developer.mozilla.org/ru/docs/Web/API/window/requestAnimationFrame
+https://learn.javascript.ru/js-animation#funktsii-raschyota-vremeni
